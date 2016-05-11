@@ -2,3 +2,5 @@
 2.The site is compatible only with MySQL Database as the site is built using PHP with MySQL connectivity.
 3.Import the file 'phonedb.sql' into the MySQL Database.
 4.Using XAMPP is recommended.
+
+The site is here http://vmobilebase.hol.es
